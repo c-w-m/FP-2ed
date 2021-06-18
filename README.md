@@ -1,4 +1,4 @@
-# Functional Python Programming - Second Edition
+# [Functional Python Programming - Second Edition](https://github.com/PacktPublishing/Functional-Python-Programming-Second-Edition)
 This is the code repository for [Functional Python Programming - Second Edition](https://www.packtpub.com/application-development/functional-python-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788627061), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 If you’re a Python developer who wants to discover how to take the power of functional programming (FP) and bring it into your own programs, then this book is essential for you, even if you know next to nothing about the paradigm.
